@@ -59,15 +59,15 @@ h2 {
 }
 
 .btn-primary {
-    background-color: white;
+    background-color: BLUE;
     border: none;
-    color: #333;
+    color: #FFFF99;
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-    color: #5cac38;
-    background-color: white;
+    color: #FFFFFF;
+    background-color: BLUE;
 }
 
 /* Style the video: 100% width and height to cover the entire window */
@@ -128,29 +128,29 @@ h2 {
     bottom: -10px;
     width: 20px;
     height: 20px; 
-    background-color: white;
+    background-color: #FFFF99;
     border-radius: 50%;
 }
 
 .tm-border-bottom {
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid blue;
     padding-bottom: 48px;
 }
 
 .tm-border-top {
-    border-top: 1px solid white;
+    border-top: 1px solid blue;
     padding-top: 48px;
 }
 
 .navbar .navbar-nav .nav-item.selected .nav-link,
 .navbar .navbar-nav .nav-item .nav-link:hover {
-    color: #99FF66;
-    border-bottom: 1px solid #99FF66;
+	color: #FFFF99;
+	border-bottom: 1px solid #000080;
 }
 
 .cd-slider-nav li.selected a+.circle,
 .navbar .navbar-nav .nav-item .nav-link:hover+.circle {
-    background-color: #99FF66;
+	background-color: #0000FF;
 }
 
 .navbar-toggler-icon {
